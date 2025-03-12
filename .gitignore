@@ -132,6 +132,15 @@ dmypy.json
 
 # data
 data/*
+dataset/DrivenData Competition - MHAS Data.zip
+dataset/metadata.csv
+dataset/sdoh_test_labels.csv
+dataset/submission_format.csv
+dataset/test_features.csv
+dataset/train_features_sample.csv
+dataset/train_features.csv
+dataset/train_labels_sample.csv
+dataset/train_labels.csv
 
 # Root Folder
 .env
@@ -142,6 +151,9 @@ test.ipynb
 conda_env.yml
 hello.py
 research2/*
+
+# SRC Folder
+src/ci_setup/*
 
 # Ruff Cache
 .ruff_cache/*
