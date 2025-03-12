@@ -130,9 +130,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# data
-data/*
-dataset/DrivenData Competition - MHAS Data.zip
+# Dataset Folder
+dataset/DrivenDataCompetition-MHAS_Data.zip
 dataset/metadata.csv
 dataset/sdoh_test_labels.csv
 dataset/submission_format.csv
